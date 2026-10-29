@@ -15,15 +15,7 @@
 
 ## 🧑‍💻 Chi sono
 
-Ho un profilo ibrido tra **sviluppo** e **sistemi**: ho lavorato come sviluppatore web .NET e come sistemista IT, e oggi mi sto specializzando sul **mainframe IBM z/OS**, dove scrivo JCL, elaboro dataset con DFSORT, automatizzo attività in REXX e lavoro su database DB2.
-
-Cerco un ruolo stabile come **sviluppatore o sistemista**, in particolare in ambienti mainframe e enterprise.
-
-- 🔭 Mi sto formando come **z/OS System Administrator**
-- 🌱 Sto approfondendo **DB2 for z/OS** (utility, modellazione, SQL) e **REXX**
-- 💬 Parliamo di: mainframe, batch processing, database relazionali, .NET
-
----
+Ho un profilo ibrido tra **sviluppo** e **sistemi**: ho lavorato come sviluppatore web .NET e come sistemista IT, e oggi mi sto specializzando sul **mainframe IBM z/OS**, studiando JCL, REXX e DB2.---
 
 ## 🛠️ Competenze
 
@@ -35,11 +27,6 @@ Cerco un ruolo stabile come **sviluppatore o sistemista**, in particolare in amb
 ![REXX](https://img.shields.io/badge/REXX-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![TSO/ISPF](https://img.shields.io/badge/TSO%2FISPF-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![DFSORT](https://img.shields.io/badge/DFSORT%20%2F%20ICETOOL-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-- **JCL**: job batch multi-step, utility IEBGENER e IDCAMS, gestione dataset sequenziali
-- **DFSORT / ICETOOL**: SORT, MERGE, INCLUDE/OMIT, OUTREC con IFTHEN, OUTFIL, OCCUR
-- **DB2 for z/OS**: modellazione relazionale, DDL/DML via SPUFI, utility LOAD, UNLOAD, REORG, RUNSTATS, COPY, RECOVER, REBUILD INDEX
-- **REXX**: script TSO, Data Stack, compound variables, report da LISTCAT
 
 **Sviluppo**
 
@@ -58,16 +45,6 @@ Cerco un ruolo stabile come **sviluppatore o sistemista**, in particolare in amb
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
----
-
-## 📂 Progetti in evidenza
-
-| Progetto | Descrizione | Tecnologie |
-|---|---|---|
-| [**zos-mainframe-labs**](https://github.com/GS-DotCom/zos-mainframe-labs) | Raccolta di job batch ed esercitazioni su z/OS: elaborazione dataset, report, utility DB2 | JCL · DFSORT · REXX · DB2 |
-| [**NOME-PROGETTO-DOTNET**](https://github.com/GS-DotCom/NOME-PROGETTO-DOTNET) | Breve descrizione del progetto .NET: cosa fa e quale problema risolve | C# · ASP.NET · SQL |
-| [**Curriculum_Vitae**](https://github.com/GS-DotCom/Curriculum_Vitae) | Il mio curriculum, sempre aggiornato | Markdown |
 
 ---
 

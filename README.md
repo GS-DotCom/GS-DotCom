@@ -29,8 +29,8 @@ Linux (EndeavourOS), Generative AI con Google Skills e il percorso IBM Z Xplore.
 
 ## Certificazioni
 
-[![IBM Z Xplore Concepts](https://img.shields.io/badge/IBM_Z_Xplore-Concepts-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/TUO-PROFILO-CREDLY)
-[![IBM Z Xplore Advanced](https://img.shields.io/badge/IBM_Z_Xplore-Advanced-8A3FFC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/TUO-PROFILO-CREDLY)
+[![IBM Z Xplore Concepts](https://img.shields.io/badge/IBM_Z_Xplore-Concepts-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/f4aea1d0-bdf9-4790-86a3-9e95697bf26b/public_url)
+[![IBM Z Xplore Advanced](https://img.shields.io/badge/IBM_Z_Xplore-Advanced-8A3FFC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/d5401918-24e6-4306-a127-18e6627b78b4/public_url)
 
 Tutti i miei badge verificati sono su Credly.
 

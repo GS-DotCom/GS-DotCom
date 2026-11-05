@@ -1,60 +1,54 @@
-<h1 align="center">Ciao, sono Giuliano Simone 👋</h1>
+<a id="header"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62FE,100:8A3FFC&height=120&section=header" width="100%"/>
 
-<p align="center">
-  <b>z/OS System Administrator · Sviluppatore Web · Vibe Coder</b><br>
-  📍 Roma, Italia
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=4589FF&width=480&lines=Ciao%2C+sono+Giuliano+Simone;z%2FOS+System+Administrator;Sviluppatore+.NET+%C2%B7+Sistemista+IT" alt="Ciao, sono Giuliano Simone" /></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/giuliano-simone-713196358/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/GS-DotCom/Curriculum_Vitae"><img src="https://img.shields.io/badge/Curriculum_Vitae-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Curriculum Vitae"/></a>
-</p>
+<img src="assets/about_giuliano.svg" alt="About me: Giuliano Simone, z/OS System Administrator in formazione, sviluppatore .NET e sistemista IT" width="680"/>
 
----
-
-## 🧑‍💻 Chi sono
-
-Ho un profilo ibrido tra **sviluppo** e **sistemi**: ho lavorato come sviluppatore web .NET e come sistemista IT, e oggi mi sto specializzando sul **mainframe IBM z/OS**, studiando JCL, REXX e DB2.---
-
-## 🛠️ Competenze
+## Main skills
 
 **Mainframe IBM z/OS**
 
-![z/OS](https://img.shields.io/badge/z%2FOS-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![JCL](https://img.shields.io/badge/JCL-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![DB2](https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![REXX](https://img.shields.io/badge/REXX-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![TSO/ISPF](https://img.shields.io/badge/TSO%2FISPF-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![DFSORT](https://img.shields.io/badge/DFSORT%20%2F%20ICETOOL-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![z/OS](https://img.shields.io/badge/z%2FOS-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![JCL](https://img.shields.io/badge/JCL-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![REXX](https://img.shields.io/badge/REXX-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![DFSORT](https://img.shields.io/badge/DFSORT-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![TSO/ISPF](https://img.shields.io/badge/TSO%2FISPF-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![Zowe](https://img.shields.io/badge/Zowe-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
 
-**Sviluppo**
+**Sviluppo e strumenti**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,mysql,git,github,vscode,visualstudio,powershell,windows)](https://skillicons.dev)
 
-**Strumenti**
+## Studying
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+[![Studying](https://skillicons.dev/icons?i=linux,arch,bash,gcp)](https://skillicons.dev)
 
----
+Linux (EndeavourOS), Generative AI con Google Skills e il percorso IBM Z Xplore.
 
-## 🧭 Percorso
+## Certificazioni
 
-| Periodo | Ruolo |
-|---|---|
-| **2026** | Corso di formazione **z/OS System Administrator** (mainframe IBM) |
-| **2025** | **Sistemista IT junior** · Romeo Ficacci S.r.l. |
-| **2024 – 2025** | **Sviluppatore web junior .NET** · T.S.I. Group |
+[![IBM Z Xplore Concepts](https://img.shields.io/badge/IBM_Z_Xplore-Concepts-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/TUO-PROFILO-CREDLY)
+[![IBM Z Xplore Advanced](https://img.shields.io/badge/IBM_Z_Xplore-Advanced-8A3FFC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/TUO-PROFILO-CREDLY)
 
----
+Tutti i miei badge verificati sono su Credly.
 
-<p align="center"><i>Aperto a opportunità come sviluppatore o sistemista: scrivimi su LinkedIn 🤝</i></p>
+## Portfolio
+
+- 🖥️ [**z-OS-Portfolio**](https://github.com/GS-DotCom/z-OS-Portfolio): esercizi e job reali su z/OS (JCL, DFSORT, REXX, DB2)
+- 🌐 [**Web Portfolio**](https://giuliano-simone.vercel.app/): il mio sito personale
+
+## Connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TUO-PROFILO-LINKEDIN/)
+[![Web Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://giuliano-simone.vercel.app/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/TUO-PROFILO-CREDLY)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.simone1927@gmail.com)
+
+## Recruiter?
+
+**Importante:** sono disponibile per ruoli da **sviluppatore** o **sistemista** a Roma, in sede, ibrido o da remoto.
+📄 [Scarica il mio CV](https://github.com/GS-DotCom/Curriculum_Vitae)
+
+<a href="#header"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62FE,100:8A3FFC&height=120&section=footer" width="100%"/></a>
